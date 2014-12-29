@@ -1,0 +1,2 @@
+#ignore static - the files should all be in static_source
+/static/*
